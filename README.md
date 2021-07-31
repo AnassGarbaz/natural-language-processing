@@ -26,3 +26,36 @@ tp3 is for :
  ## Topic detection folder 
 
   Topic detection in the brown corpus
+
+ ## imbalaced datasets and data augmentation folder
+ 
+  in This folder i handled imbalaced datasets using :  
+  
+   * Random over-sampling
+   * SMOTE (Synthetic Minority Over-Sampling Technique) 
+   * Downsampling :
+     - RandomUnderSampler.
+     - NearMiss-1.
+  I made also data augmentation using 2 libraries, nlpaug and textaugment. I used also multiple techniques as :
+  
+  for word augmentation :
+  
+   * Thesausus
+   * Word embedings augmenter
+   * Back Translation
+   * Contextual Word Embeddings Augmenter
+   
+  For sentence Augmentation :
+  
+   * Text generation
+   * Contextual Word Embeddings for Sentence Augmenter
+   * Abstractive Summarization Augmenter
+   
+  For Character Augmentation :
+  
+   * OCR Augmenter
+   * Random Augmenter
+ 
+  
+  
+   
