@@ -16,5 +16,11 @@ tp2 is for :
  * word2vec
  * fasttext
  * glove_google_news_300.ipynb
+
+tp3 is for :
+
+ * Loading webtext corpus
+ * Handle stop words, punctuations and emojis
+ * most common words
  
  ## Topic detection folder 
