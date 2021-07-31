@@ -36,6 +36,7 @@ tp3 is for :
    * Downsampling :
      - RandomUnderSampler.
      - NearMiss-1.
+     
   I made also data augmentation using 2 libraries, nlpaug and textaugment. I used also multiple techniques as :
   
   for word augmentation :
