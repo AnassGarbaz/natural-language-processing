@@ -24,3 +24,5 @@ tp3 is for :
  * most common words
  
  ## Topic detection folder 
+
+  Topic detection in the brown corpus
