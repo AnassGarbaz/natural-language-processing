@@ -22,7 +22,21 @@ TP2_nlp is for :
  * Loading webtext corpus
  * Handle stop words, punctuations and emojis
  * most common words
+
+SUMMARIZATION is for :
+
+ * Text Summarization using Gensim and Sumy
+ * Automatic Text Summarization Evaluation
  
+ Sentiment_Analysis is for :
+
+ * Sentiment analysis with nltk
+
+webscrapping is for :
+
+ * web scrapping techniques. 
+
+
  ## Topic detection folder 
 
   Topic detection in the brown corpus
