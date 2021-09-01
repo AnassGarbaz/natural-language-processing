@@ -17,7 +17,7 @@ tp2 is for :
  * fasttext
  * glove_google_news_300.ipynb
 
-tp3 is for :
+TP2_nlp is for :
 
  * Loading webtext corpus
  * Handle stop words, punctuations and emojis
